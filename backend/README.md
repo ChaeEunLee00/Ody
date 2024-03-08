@@ -20,6 +20,3 @@ poetry install
 
 poetry shell
 
-### django 앱 추가하기 ex. user
-
-django-admin startapp user
