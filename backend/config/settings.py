@@ -30,7 +30,9 @@ ALLOWED_HOSTS = []
 
 # Application definition
 
-CUSTOM_APPS = []
+CUSTOM_APPS = [
+    "ody.apps.OdyConfig"
+]
 
 SYSTEM_APPS = [
     "django.contrib.admin",
